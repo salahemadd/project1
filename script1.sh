@@ -1,6 +1,6 @@
 #i/bin/bash
 
 
-mkdir Devops
-touch Devops/salah
+mkdir /git-dir/Devops
+touch /git-dir/Devops/salah
 chmod -R 777 Devops
